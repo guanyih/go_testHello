@@ -13,5 +13,5 @@ func main() {
 		who = strings.Join(os.Args[1:], " ")
 
 	}
-	fmt.Println("Hello, Guanyi and ", who)
+	fmt.Println("Hello,", who)
 }
